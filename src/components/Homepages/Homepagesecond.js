@@ -1,6 +1,6 @@
 import React from 'react'
 import '../Homepages/Homepagesecond.css'
-import MyVideo from '../Homepages/secondsectionvid.mp4'
+
 export const Homepagesecond = () => {
   return (
     <div className='homepagesecond'>
@@ -13,7 +13,9 @@ export const Homepagesecond = () => {
 
 
     <video className='videofirst'autoPlay muted loop>
-        <source src={MyVideo} type="video/mp4" />
+        
+        <source src="https://videos.pexels.com/video-files/5082597/5082597-uhd_4096_2160_25fps.mp4" type="video/mp4" />
+
         </video>
 
         </div>
