@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .homepagefourth{
     background-color: black;
     height: 65vh;
@@ -35,4 +36,43 @@
     border: 0;
     margin-bottom: 0;
     margin-top: 8%;
+=======
+.homepagefourth{
+    background-color: black;
+    height: 65vh;
+    color: white;
+}
+.watch{
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 25%;
+    padding-top: 5%;
+}
+.everywhere{
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 25%;
+   
+}
+.stream{
+    font-size: 30px;
+    padding-top: 1%;
+    margin-left: 25%;
+}
+.shows{
+    font-size: 30px;
+    margin-left: 25%;
+}
+.tv{
+    font-size: 30px;
+    margin-left: 25%;
+}
+.hrline3{
+    width: auto;
+    height: 9px;
+    background-color: rgba(32, 32, 32, 0.808);
+    border: 0;
+    margin-bottom: 0;
+    margin-top: 8%;
+>>>>>>> 53f3bfd5d1c63a581b40c85deb5410d6f6b5c551
 }

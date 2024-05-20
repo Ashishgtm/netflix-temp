@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .homepagethird{
     background-color: black;
     height: 85vh;
@@ -79,4 +80,87 @@
     background-color: rgba(32, 32, 32, 0.808);
     border: 0;
     margin-bottom: 0;
+=======
+.homepagethird{
+    background-color: black;
+    height: 85vh;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.strangerthinging{
+    margin-left: 15%;
+    margin-top: 2%;
+}
+.saveyourline{
+    font-size: 30px;
+    font-weight: normal;
+}
+.descriptionsec{
+    font-size: 60px;
+    font-weight: bold;
+    margin-right: 15%;
+    margin-top: 6%;
+}
+.largeimage{
+    display: block;
+}
+.smallimage{
+    position:relative;
+    width: 75px;
+    
+    top: 1vh;   
+    left: 14%;
+    transform: translateX(-40%);
+
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+   top:-22vh;
+   position: relative;
+   transform: translate(-50px);
+    margin-left: 30%;
+    border: 2px solid white;
+    background-color: black;
+    border-radius: 10px;
+    width: 55%;
+    padding-bottom: 3%;
+    padding-top: 0.5%;
+
+}
+.strangerbox{
+    position: fixed;
+    top: 4vh;
+    left: 45%;
+    right: 0;
+    transform: translate(-50px);
+    font-size: 20px;
+}
+.downloadingbox{
+    position: fixed;
+    top: 7.5vh;
+    left: 60%;
+    transform: translate(-100px);
+    font-size: 18px;
+    color: blue;
+
+}
+
+.loadinggif{
+    position: fixed;
+    width: 30%;
+    top: -2vh;
+   margin-left: 60%;
+   
+}
+.hrline2{
+    width: auto;
+    height: 9px;
+    background-color: rgba(32, 32, 32, 0.808);
+    border: 0;
+    margin-bottom: 0;
+>>>>>>> 53f3bfd5d1c63a581b40c85deb5410d6f6b5c551
 }

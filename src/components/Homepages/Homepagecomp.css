@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .unlimitedline{
     font-size: 62px;
     color: white;
@@ -125,4 +126,133 @@ input[type="text"] {
         font-size: 6vw;
         margin-left: 5%;
     }
+=======
+.unlimitedline{
+    font-size: 62px;
+    color: white;
+    font-weight: bold;
+    margin-left: 15%;
+    margin-top:  15% ;
+    margin-right: 15%;
+}
+.watchanywhereline{
+    font-size: 35px;
+    color: white;
+    margin-top: 1%;
+    margin-left: 35%;
+    margin-right: 30%;
+}
+.readytowatchline{
+    font-size: 22px ;
+    color: white;
+    margin-top: 1%;
+    margin-left: 25%;
+    margin-right: 20%;
+}
+input[type="text"] {
+    width: 350px;
+    padding: 20px;
+    margin-left: 33%;
+    margin-top: 1.5%;
+    background-color: rgba(0, 0, 0, 0.295);
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+  }
+  ::placeholder {
+    color: rgba(255, 255, 255, 0.603);
+    font-size: 19px;
+}
+
+  input[type="submit"] {
+    padding:17px 25px;
+    font-size: 27px;
+    margin-left: 1%;
+    background-color: rgba(255, 0, 0, 0.781);
+    color: white;
+    border-radius: 7px;
+    cursor:pointer;
+
+  }
+  input[type="submit"]:hover {
+    background-color: rgba(139, 0, 0, 0.781); 
+  }
+
+.hrline{
+    width: auto;
+    height: 9px;
+    background-color: rgba(32, 32, 32, 0.808);
+    border: 0;
+    margin-top: 10.5%;
+    margin-bottom: 0;
+}
+
+  
+@media (max-width: 768px) {
+    .unlimitedline {
+        font-size: 35px;
+    }
+
+    .watchanywhereline {
+        font-size: 20px;
+        margin-top: 2%;
+        margin-left: 20%;
+        margin-right: 15%;
+    }
+
+    .readytowatchline {
+        font-size: 20px ;
+        margin-top: 2%;
+        margin-left: 15%;
+        margin-right: 20%;
+    }
+
+    input[type="text"] {
+        width: 60%;
+        font-size: 5vw;
+        margin-left: 10%;
+        margin-top: 3%;
+        padding: 13px;
+
+    }
+
+    input[type="submit"] {
+        padding:10px 15px;
+        font-size: 22px;
+        margin-left:27%;
+        margin-top: 2%;
+
+          }
+}
+
+@media (max-width: 480px) {
+    .unlimitedline {
+        font-size: 10vw;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .watchanywhereline {
+        font-size: 7vw;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .readytowatchline {
+        font-size: 6vw;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    input[type="text"] {
+        width: 90%;
+        font-size: 6vw;
+        margin-left: 5%;
+    }
+
+    input[type="submit"] {
+        font-size: 6vw;
+        margin-left: 5%;
+    }
+>>>>>>> 53f3bfd5d1c63a581b40c85deb5410d6f6b5c551
 }

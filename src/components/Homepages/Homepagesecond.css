@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .homepagesecond{
     background-color: black;
     height: 83vh;
@@ -45,4 +46,53 @@
     flex-direction: row;
     align-items: center; /* Align items vertically */
     justify-content: center; /* Centers items horizontally */
+=======
+.homepagesecond{
+    background-color: black;
+    height: 83vh;
+    color: white;
+}
+
+.enjoydiv{
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 10%;
+    margin-left: 12%;
+}
+.des{
+    margin-left: 1%;
+    margin-right: 20%;
+    line-height: 0.7;
+}
+.description{
+    font-size: 30px;
+    font-weight: normal;
+   letter-spacing: normal;
+   
+}
+
+
+.hrline{
+    width: auto;
+    height: 9px;
+    background-color: rgba(32, 32, 32, 0.808);
+    border: 0;
+    margin-top: 10%;
+    margin-bottom: 0;
+}
+.videofirst{
+    width: 40%;
+    margin-left: 0%;
+    margin-right: 8%;
+    margin-top: 8%;
+
+}
+
+.video-section {
+    display: flex;
+
+    flex-direction: row;
+    align-items: center; /* Align items vertically */
+    justify-content: center; /* Centers items horizontally */
+>>>>>>> 53f3bfd5d1c63a581b40c85deb5410d6f6b5c551
   }
