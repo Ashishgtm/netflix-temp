@@ -1,0 +1,28 @@
+.homepagefifth{
+    background-color: black;
+    height: 68vh;
+    color: white;
+}
+
+.container5{
+    display: flex;
+    flex-direction: row;
+}
+
+.strangerthing{
+    margin-left: 15%;
+    margin-top: 2%;
+}
+.sendkidsline{
+    font-size: 30px;
+    font-weight: normal;
+}
+.descriptionfifth{
+    font-size: 60px;
+    font-weight: bold;
+    margin-right: 15%;
+    margin-top: 6%;
+}
+.largegif{
+    display: block;
+}

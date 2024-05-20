@@ -1,0 +1,76 @@
+.footer{
+    background-color: black;
+    height: 60vh;
+    color: white;
+}
+.footcontainer{
+    display: flex;
+    flex-direction: row;
+}
+.divA{
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.divfirst{
+    padding: 2%;
+    margin-left: 12%;
+
+
+}
+.divB{
+    margin-top: 10%;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+input[type="submits"] {
+    padding: 10px;
+    margin-top: 10%;
+    font-size: 20px;
+    margin-left: 1%;
+    background-color:black;
+    color: white;
+    border: 1px solid rgba(128, 128, 128, 0.274);
+    cursor:pointer;
+width: 45%;
+border-radius: 7px;
+
+  }
+  .dropdown-icon {
+    padding-top: 5vh;
+    margin-left: -4vh;
+  }
+  .nep{
+    text-decoration: none;
+  }
+
+
+
+  .divsecond{
+    padding: 2%;
+    margin-left: 5%;
+    margin-top: 3%;
+
+
+}
+.divD{
+    margin-top: 16%;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.divthird{
+    padding: 2%;
+    margin-left: 5%;
+    margin-top: 3%;
+
+
+}
+.divE{
+    margin-top: 16%;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+}
