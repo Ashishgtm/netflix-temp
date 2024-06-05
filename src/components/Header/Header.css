@@ -9,3 +9,17 @@ float: right;
 margin-top: 3%;
 margin-right: 15%;    
 }
+
+@media (max-width: 480px) {
+    .logoheader{
+        margin-top: 7%;
+        margin-left: 8%;
+        width: 25%;
+    }
+    .buttonclass{
+        float: right;
+        margin-top: 7%;
+        margin-right: 10%;    
+        }
+
+}

@@ -60,70 +60,28 @@ input[type="text"] {
 }
 
   
-@media (max-width: 768px) {
-    .unlimitedline {
-        font-size: 35px;
-    }
-
-    .watchanywhereline {
-        font-size: 20px;
-        margin-top: 2%;
-        margin-left: 20%;
-        margin-right: 15%;
-    }
-
-    .readytowatchline {
-        font-size: 20px ;
-        margin-top: 2%;
-        margin-left: 15%;
-        margin-right: 20%;
-    }
-
-    input[type="text"] {
-        width: 60%;
-        font-size: 5vw;
-        margin-left: 10%;
-        margin-top: 3%;
-        padding: 13px;
-
-    }
-
-    input[type="submit"] {
-        padding:10px 15px;
-        font-size: 22px;
-        margin-left:27%;
-        margin-top: 2%;
-
-          }
-}
-
 @media (max-width: 480px) {
     .unlimitedline {
-        font-size: 10vw;
-        margin-left: 5%;
-        margin-right: 5%;
-    }
 
+        font-size:28px;
+       
+        text-align: center;
+    }
     .watchanywhereline {
-        font-size: 7vw;
-        margin-left: 5%;
-        margin-right: 5%;
-    }
+      font-size: 17px;
+      margin-top: 3%;
+      margin-left: 20%;
+      margin-right: 20%;
 
+    }
     .readytowatchline {
-        font-size: 6vw;
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-top: 3%;
+        font-size: 15px;
+        text-align: center;
     }
+  
+   
 
-    input[type="text"] {
-        width: 90%;
-        font-size: 6vw;
-        margin-left: 5%;
-    }
 
-    input[type="submit"] {
-        font-size: 6vw;
-        margin-left: 5%;
-    }
+
 }
